@@ -6,7 +6,7 @@ Model Module
 ![image](https://github.com/WayneZHAO1989/Bert4Rec/blob/main/asset/screenshot.jpg)
 
 Training Loss Curve
-![image](https://github.com/WayneZHAO1989/Bert4Rec/blob/main/asset/loss.jpg)
+![image](https://github.com/WayneZHAO1989/Bert4Rec/blob/main/asset/loss.png)
 
 NDCG and Recall
-![image](https://github.com/WayneZHAO1989/Bert4Rec/blob/main/asset/NDCG_Recall.jpg)
+![image](https://github.com/WayneZHAO1989/Bert4Rec/blob/main/asset/NDCG_Recall.png)
